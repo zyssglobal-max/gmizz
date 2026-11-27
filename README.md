@@ -2,12 +2,10 @@
 
 <table>
 <tr>
-<td width="80" valign="top">
-</td>
 <td valign="top">
 <strong style="font-size:1rem;">(<>) 𝒢𝕸𝖎ᶻ 𝗓 𐰁 ...</strong><br>
 <small style="color:#666;">@zysscorp · Desarrollador</small><br><br>
-<small>📍 - u/ repo · 🌐 ggiᶻ 𝗓 𐰁 · 📅</small>
+<small>📍 - u/ repo · 🌐 ggiᶻ 𝗓 𐰁</small>
 </td>
 </tr>
 </table>
