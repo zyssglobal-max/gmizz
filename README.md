@@ -3,52 +3,17 @@
 <table>
 <tr>
 <td width="80" valign="top">
-<div style="width:64px;height:64px;border-radius:50%;/* background:#c5ff2b; */display:flex;align-items:center;justify-content:center;font-size:1.8rem;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="60" height="60">
-                <defs>
-                  <linearGradient id="gradienteFuego" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" style="stop-color:#ff6600; stop-opacity:1"></stop>
-                    <stop offset="50%" style="stop-color:#ff0000; stop-opacity:1"></stop>
-                    <stop offset="100%" style="stop-color:#cc0000; stop-opacity:1"></stop>
-                  </linearGradient>
-                  <filter id="sombraProfunda" x="-20%" y="-20%" width="140%" height="140%">
-                    <feGaussianBlur in="SourceAlpha" stdDeviation="3"></feGaussianBlur>
-                    <feOffset dx="2" dy="2" result="offsetblur"></feOffset>
-                    <feComponentTransfer>
-                      <feFuncA type="linear" slope="0.5"></feFuncA>
-                    </feComponentTransfer>
-                    <feMerge>
-                      <feMergeNode></feMergeNode>
-                      <feMergeNode in="SourceGraphic"></feMergeNode>
-                    </feMerge>
-                  </filter>
-                </defs>
-                <path class="g-principal" d="M50,0 C22.386,0,0,22.386,0,50s22.386,50,50,50s50-22.386,50-50S77.614,0,50,0z
-                         M50,10
-                         c19.843,0,36,16.157,36,36s-16.157,36-36,36S14,65.843,14,50S30.157,10,50,10z
-                         M50,25
-                         c11.046,0,20,8.954,20,20s-8.954,20-20,20s-20-8.954-20-20S38.954,25,50,25z
-                         M50,50
-                         l-15,0
-                         l0,-5
-                         l15,0
-                         l0,-10
-                         l-25,0
-                         l0,20
-                         l25,0
-                         l0,-5Z" fill="url(#gradienteFuego)" filter="url(#sombraProfunda)"></path>
-                <circle cx="75" cy="35" r="5" fill="#FFA500" opacity="0.8" filter="url(#sombraProfunda)"></circle>
-                <circle cx="30" cy="45" r="4" fill="#FFD700" opacity="0.7" filter="url(#sombraProfunda)"></circle>
-              </svg></div>
+<div style="width:64px;height:64px;border-radius:50%;/* background:#c5ff2b; */display:flex;align-items:center;justify-content:center;font-size:1.8rem;"> 🔶 </div>
 </td>
 <td valign="top">
 <strong style="font-size:1rem;">(<>) 𝒢𝕸𝖎ᶻ 𝗓 𐰁 ...</strong><br>
 <small style="color:#666;">@zysscorp · Desarrollador</small><br><br>
-<small>📍 - u/ repo · 🌐 ggiᶻ 𝗓 𐰁 · 📅 v.2026</small>
+<small>📍 - u/ repo · 🌐 ggiᶻ 𝗓 𐰁 · 📅</small>
 </td>
 </tr>
 </table>
 
-SCRIPT @𝒢𝕸𝖎ᶻ 𝗓 𐰁 ![ @brir db.json ](db.json) 
+SCRIPT @𝒢𝕸𝖎ᶻ 𝗓 𐰁 ![ @brir db.json ]https://zyssglobal-max.github.io/gmizz/db.json 
 
 <div style="background:#1e1e18;color:#e8e8e0;border-radius:16px;padding:16px;margin:12px 0;font-family:monospace;font-size:0.8rem;">
 <span style="color:#c5ff2b;">npm install</span> gmizz<br>
