@@ -12,13 +12,6 @@
 </tr>
 </table>
 
-SCRIPT @𝒢𝕸𝖎ᶻ 𝗓 𐰁 ![ @brir db.json ]https://zyssglobal-max.github.io/gmizz/db.json 
-
-<div style="background:#1e1e18;color:#e8e8e0;border-radius:16px;padding:16px;margin:12px 0;font-family:monospace;font-size:0.8rem;">
-<span style="color:#c5ff2b;">npm install</span> gmizz<br>
-<span style="color:#c5ff2b;">npm run</span> dev
-</div>
-
 > Un catalogo de juegos bien bestia para todos ...
 
 ## 🔶 Estructura de `db.json` ...
@@ -64,6 +57,3 @@ SCRIPT @𝒢𝕸𝖎ᶻ 𝗓 𐰁 ![ @brir db.json ]https://zyssglobal-max.githu
 
 Repositorio creado con ggiᶻ 𝗓 𐰁
 &middot; 23/11/2026 17:17:37
-
-# gmizz
-Game Catalog...
