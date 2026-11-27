@@ -3,7 +3,6 @@
 <table>
 <tr>
 <td width="80" valign="top">
-<div style="width:64px;height:64px;border-radius:50%;/* background:#c5ff2b; */display:flex;align-items:center;justify-content:center;font-size:1.8rem;"> 🔶 </div>
 </td>
 <td valign="top">
 <strong style="font-size:1rem;">(<>) 𝒢𝕸𝖎ᶻ 𝗓 𐰁 ...</strong><br>
