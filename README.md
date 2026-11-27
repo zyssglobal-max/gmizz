@@ -52,8 +52,3 @@
         "complete_price": 10.0
       },
 ```
-
----
-
-Repositorio creado con ggiᶻ 𝗓 𐰁
-&middot; 23/11/2026 17:17:37
